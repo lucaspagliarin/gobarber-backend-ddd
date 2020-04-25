@@ -7,14 +7,23 @@
 ----
 ## Routes
 
-### APPOINTMENTS
-  - [List]
-  - [Create]
+### Appointments
+  - [Appointments List]
+  - [Appointment Create]
 
 ### Users
+  - [User Create]
+  - [User Add Avatar]
 
 ### Sessions
+  - [Session Create]
+
 ----
 
-[List]: docs/AppointmentsList.md
-[Create]: docs/AppointmentsCreate.md
+[Appointments List]: docs/AppointmentsList.md
+[Appointment Create]: docs/AppointmentsCreate.md
+
+[User Create]: docs/UsersCreate.md
+[User Add Avatar]: docs/UserAddAvatar.md
+
+[Session Create]: docs/SessionsCreate.md

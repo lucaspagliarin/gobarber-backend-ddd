@@ -17,4 +17,4 @@
 ----
 
 [List]: docs/AppointmentsList.md
-[List]: docs/AppointmentsCreate.md
+[Create]: docs/AppointmentsCreate.md

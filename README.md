@@ -8,16 +8,8 @@
 ## Routes
 
 ### APPOINTMENTS
-  #### LIST
   - [List]
-
-
-  >Return: List of all appointments
-
-
-
-#### CREATE
-Route:
+  - [Create]
 
 ### Users
 
@@ -25,3 +17,4 @@ Route:
 ----
 
 [List]: docs/AppointmentsList.md
+[List]: docs/AppointmentsCreate.md

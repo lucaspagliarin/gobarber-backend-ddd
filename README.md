@@ -24,4 +24,4 @@ Route:
 ### Sessions
 ----
 
-[List]: 'docs/AppointmentsList.md'
+[List]: '../blob/master/docs/AppointmentsList.md'
